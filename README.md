@@ -7,3 +7,4 @@
 |Booleans and Conditionals|4|[Day 4](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-booleans-and-conditionals.ipynb)|
 |Lists|5(a)| [Day 5(a)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-lists.ipynb)|
 |Loops and List Comprehensions|5(b)| [Day 5(b)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-loops-and-list-comprehensions.ipynb)
+|Strings and Dictionaries|6| [Day 6](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-strings-and-dictionaries.ipynb)|
