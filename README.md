@@ -12,3 +12,4 @@
 |Explore Your Data|8|[Day 8](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-explore-your-data.ipynb)|
 |Your First Machine Learning Model|9(a)|[Day 9(a)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-your-first-machine-learning-model.ipynb)
 |Model Validation|9(b)|[Day 9(b)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-model-validation.ipynb)
+|Underfitting and Overfitting|10(a)|[Day 10(a)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-underfitting-and-overfitting.ipynb)
