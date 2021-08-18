@@ -15,4 +15,6 @@
 |Underfitting and Overfitting|10(a)|[Day 10(a)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-underfitting-and-overfitting.ipynb)
 |Random Forests|10(b)|[Day 10(b)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-random-forests.ipynb)
 |Machine Learning Competitions|11|[Day 11](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-machine-learning-competitions.ipynb)
-|Introduction|12|[Day 12](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-introduction.ipynb)
+|Introduction|12(a)|[Day 12(a)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-introduction.ipynb)
+|Missing Values|12(b)|[Day 12(b)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-missing-values.ipynb)
+|Categorical Variables|12(c)|[Day 12(c)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-categorical-variables.ipynb)
