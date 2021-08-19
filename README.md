@@ -18,3 +18,5 @@
 |Introduction|12(a)|[Day 12(a)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-introduction.ipynb)
 |Missing Values|12(b)|[Day 12(b)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-missing-values.ipynb)
 |Categorical Variables|12(c)|[Day 12(c)](https://github.com/ipshitag/30-days-of-ML/blob/main/exercise-categorical-variables.ipynb)
+
+:shipit:
